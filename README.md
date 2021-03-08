@@ -7,6 +7,6 @@
 # 2. coud up 기초 다지기 
 코드업 문제를 풀어보며 파이썬에 대한 기초를 다지는 연습을했다.
 
-#3. solved silver 5 
+# 3. solved silver 5 
 
 solved.ac에서 푼 문제들을 저장해놓는 공간 
